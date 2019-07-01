@@ -1,3 +1,6 @@
+# PLEASE READ ALL COMMENTS BEFORE RUNNING THIS FILE, If something isn't okay for you, just comment that line by adding "#" to the very beginning of that file
+echo "-> sudo apt install adb"
+sudo apt install adb # remove if you aren't on Debian based system.
 anrm='adb shell pm uninstall -k --user 0'
 #samsung
 $anrm com.dsi.ant.sample.acquirechannels
