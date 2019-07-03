@@ -460,3 +460,17 @@ printf "\n-> Uninstalling: com.samsung.ipservice:\n"
 $anrm com.samsung.ipservice
 printf "\n-> Uninstalling: com.samsung.sec.android.application.csc:\n"
 $anrm com.samsung.sec.android.application.csc
+printf "\n-> Uninstalling: com.samsung.visionprovider:\n"
+$anrm com.samsung.visionprovider
+printf "\n-> com.samsung.ucs.agent.ese:\n"
+$anrm com.samsung.ucs.agent.ese
+printf "\n-> com.samsung.android.knox.containerdesktop:\n"
+$anrm com.samsung.android.knox.containerdesktop
+printf "\n-> com.samsung.android.themecenter:\n"
+$anrm com.samsung.android.themecenter
+printf "\n-> android.autoinstalls.config.samsung:\n"
+$anrm android.autoinstalls.config.samsung
+printf "\n-> com.sec.android.app.setupwizardlegalprovider:\n"
+$anrm com.sec.android.app.setupwizardlegalprovider
+printf "\n-> com.sec.app.RilErrorNotifier:\n"
+$anrm com.sec.app.RilErrorNotifier
