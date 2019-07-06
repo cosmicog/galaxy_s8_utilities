@@ -474,3 +474,5 @@ printf "\n-> com.sec.android.app.setupwizardlegalprovider:\n"
 $anrm com.sec.android.app.setupwizardlegalprovider
 printf "\n-> com.sec.app.RilErrorNotifier:\n"
 $anrm com.sec.app.RilErrorNotifier
+printf "\n-> com.google.ar.core:\n"
+$anrm com.google.ar.core
